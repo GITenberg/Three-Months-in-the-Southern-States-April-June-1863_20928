@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9612
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Fremantle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20928#Three-Months-in-the-Southern-States-April-June-1863
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2007-03-29'
 gutenberg_type: Text
